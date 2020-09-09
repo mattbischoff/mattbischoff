@@ -105,11 +105,3 @@ You can [contact Matt here](/contact) or find them online in all of these places
 💸 [Kickstarter](https://www.kickstarter.com/profile/matthewbischoff)  
 😸 [Product Hunt](https://www.producthunt.com/@mb)  
 🥞 [YourStack](https://yourstack.com/@mb)
-
-## Colophon
-
-This website was designed by [Robyn Kanner](https://robynkanner.com) and developed by [Martin Giannakopoulos](https://www.linkedin.com/in/martin-giannakopoulos-2258a0134?originalSubdomain=ca). It’s published with [Jekyll](https://jekyllrb.com) and managed in [Siteleaf](https://www.siteleaf.com). The content is hosted in a [GitHub repository](https://github.com/mattbischoff/matthewbischoff.com) on [GitHub Pages](https://pages.github.com). Posts are written in [Ulysses](https://ulysses.app).
-
-Headline and body type is set in [Proxima Nova](https://fonts.adobe.com/fonts/proxima-nova) by Mark Simonson, Matt’s favorite typeface.
-
-Photos of Matt were taken by Ashe of [Rose Glass Photography](https://www.roseglass.pictures) and [Ben McCarthy](https://twitter.com/benricem), who makes [Obscura](https://obscura.app).
