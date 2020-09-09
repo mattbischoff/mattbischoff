@@ -1,7 +1,3 @@
-### Hi there 👋
-
-# About
-
 ![Photo of Matthew Bischoff](https://matthewbischoff.com/uploads/matthew-profile-43.jpeg)
 
 Matthew Bischoff ([they/them](https://pronoun.is/they)) is a designer and developer in New York City. They are a founder and partner at [Lickability](https://lickability.com), a software studio known for its [apps](https://lickability.com/products) and work for [clients](https://lickability.com/clients) like The Atlantic, Houseparty, and Meetup.
