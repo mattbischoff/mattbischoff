@@ -8,9 +8,9 @@ Matt is an acclaimed speaker, giving [talks](https://matthewbischoff.com/categor
 
 In their spare time, Matt enjoys making (and drinking) classic cocktails, going to the theatre, trawling Wikipedia for interesting facts, and volunteering for [Trans Lifeline](https://www.translifeline.org/). They’re proudly bisexual, trans, & nonbinary. Oh yeah, and [they were on Jeopardy](https://www.j-archive.com/showgame.php?game_id=3342).
 
-## Work
+## 💼 Work
 
-### Apps
+### 📱Apps
 
 Matt’s contributed design and code to the following applications:
 
@@ -27,7 +27,7 @@ Matt’s contributed design and code to the following applications:
 * [Aloe Bud](https://aloebud.com/)
 * [Mimeo Photos](https://mimeophotos.com)
 
-### Talks
+### 🗣 Talks
 
 * **[Growing Pains](https://matthewbischoff.com/nsnorth/)** — [NSNorth](https://nsnorth.ca) 2019
 * **[Culture Rot](https://matthewbischoff.com/culture-rot/)** — [Difficult to Name Reading Series](http://www.ryansartor.com) March 2018
@@ -39,9 +39,9 @@ Matt’s contributed design and code to the following applications:
 * **[RFTM: Things You Missed in the HIG](https://matthewbischoff.com/rtfm/)** — [SecondConf](http://secondconf.com) September 2013
 * **[Get Excited and Make Things](https://speakerdeck.com/matthewbischoff/get-excited-and-make-things)** —  [TEDxNJIT](https://www.youtube.com/watch?v=R1afhypdiBQ) November 2011
 
-## Selected Appearances
+## 👀 Selected Appearances
 
-### Podcasts
+### 🎙 Podcasts
 
 * **[NSNorth 2019, Episode 57: Matthew Bischoff](http://casgrain.net/podcasts/NSNorth_57-Matthew_Bischoff.mp3)** — April 2019
 * **[Consult Episode 17: Matthew Bischoff](https://consultpodcast.com/post/162366487707/episode-17-matthew-bischoff-experienced-ios)** — June 2017
@@ -55,7 +55,7 @@ Matt’s contributed design and code to the following applications:
 * **[CMD+Space #26: iOS 7 and Lickability](https://www.relay.fm/cmdspace/66)** — October 2013
 * **[Developing Perspective: Matthew Bischoff](http://developingperspective.com/2012/07/31/bischoff/)** — July 2012
 
-### Press
+### 📰 Press
 
 * **[Inside Design: Three basic principles for getting started with accessible digital product design](https://www.invisionapp.com/inside-design/3-principles-accessible-design/)** — June 2019
 * **[Instabug: 59 People Every iOS Developer Should Follow on Twitter](https://instabug.com/blog/59-people-every-ios-developer-should-follow-on-twitter/)** — October 2015
@@ -66,7 +66,7 @@ Matt’s contributed design and code to the following applications:
 * **[Objectively Stylish](http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/)** — August 2013
 * **[Objective See Interview](http://web.archive.org/web/20150131063752/http://www.objectivesee.com/matthew.bischoff.html)** — July 2012
 
-### Elsewhere
+### 🌐 Elsewhere
 
 You can [contact Matt here](https://matthewbischoff.com/contact) or find them online in all of these places:
 
