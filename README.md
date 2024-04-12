@@ -12,7 +12,7 @@ In their spare time, mb enjoys making (and drinking) classic cocktails, going to
 
 ### 📱Apps
 
-Matt’s contributed to the following applications:
+mb’s contributed to the following applications:
 
 * [Quotebook](http://quotebookapp.com)
 * [Accelerator](http://acceleratorapp.com)
